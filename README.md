@@ -64,3 +64,4 @@ KamertonDSP is currently in **Open Beta** with all DSP, AutoEq, and AI Mastering
 - **AutoEq Headphone Database:** Copyright © 2018–2025 Jaakko Pasanen & AutoEq Contributors — MIT License.
 - **BS2B Crossfeed:** Copyright © 2005 Boris Mikhaylov — MIT License.
 - Headphone EQ curves are calibrated to the Harman OE2018 target curve (descriptive reference only; no endorsement or affiliation implied).
+- All product names, headphone brands, and service names (including HiFiMAN and Spotify) are trademarks or registered trademarks of their respective owners. Their use in KamertonDSP is strictly for identification and compatibility purposes and does not imply endorsement or affiliation.
